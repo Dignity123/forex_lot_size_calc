@@ -21,3 +21,5 @@ flutter:
 
   assets:
     - assets/images/trading.webp
+    - assets/Screenshots/Screenshot1.png
+    - assets/Screenshots/Screenshot2.png
