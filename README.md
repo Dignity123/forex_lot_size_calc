@@ -23,10 +23,10 @@ A Flutter app to calculate Forex lot sizes including **XAU/USD (Gold)** and **XA
 ## **Screenshots**
 
 ### Home Screen
-![Home Screen](assets/screenshots/Screenshot2.png)
+![Home Screen](assets/Screenshots/Screenshot2.png)
 
 ### Calculation Example
-![Calculation](assets/screenshots/Screenshot1.png)
+![Calculation](assets/Screenshots/Screenshot1.png)
 
 ## **Getting Started**
 
